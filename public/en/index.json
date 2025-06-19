@@ -1,0 +1,43 @@
+
+{
+    "nodes": [{
+                "id": "8b5b4e02f080f3391bd9a9ed3de44f28",
+                "title": "Pyrrhic Coming 7-18-25",
+                "permalink": "http://localhost:1313/en/en/post/pyrrhiccoming/",
+                "type": "post"
+            },
+                        {
+                            "id": "categories-new-music",
+                            "title": "New Music",
+                            "permalink": "http://localhost:1313/en/categories/new-music/",
+                            "type": "categories"
+                        },
+                        {
+                            "id": "tags-at-heart",
+                            "title": "At Heart",
+                            "permalink": "http://localhost:1313/en/tags/at-heart/",
+                            "type": "tags"
+                        },
+                        {
+                            "id": "tags-local-music",
+                            "title": "Local Music",
+                            "permalink": "http://localhost:1313/en/tags/local-music/",
+                            "type": "tags"
+                        },
+    ],
+    "links": [
+            
+                    {
+                        "source": "8b5b4e02f080f3391bd9a9ed3de44f28",
+                        "target": "categories-new-music",
+                    },
+                    {
+                        "source": "8b5b4e02f080f3391bd9a9ed3de44f28",
+                        "target": "tags-at-heart",
+                    },
+                    {
+                        "source": "8b5b4e02f080f3391bd9a9ed3de44f28",
+                        "target": "tags-local-music",
+                    },
+    ],
+}
