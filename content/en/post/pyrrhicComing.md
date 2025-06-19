@@ -6,7 +6,7 @@ date: 2025-06-18
 type: post
 draft: false
 translationKey: markdown
-coffee: 5
+coffee: 4
 tags: ['at heart', 'local music']
 categories: ['new music']
 comments: false
