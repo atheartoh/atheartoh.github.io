@@ -48,7 +48,7 @@ Task List:
 - [ ] Get with local business to create partnerships in merch.
 - [ ] Start donating to charity.
 
-The goal is that the support we receive pays to keep the project going, with the goal that we have two places to buy cool things, one that supports the band, and another that supports the charities we believe in that do work in our area. 
+The goal is that the support we receive pays to keep the project going, with the secondary goal that we have two places to buy cool things, one that supports the band, and another that supports the charities we believe in that do work in our area. 
 
 We live in uncertain and broken times, and we want to do more than we can afford to help. We want to compel anyone willing and able to represent and support the causes we believe in. Help for the unhoused, LGBTQ+ causes, and community building initiatives are our goal. 
 
