@@ -1,6 +1,6 @@
 ---
 type: 'slide'
-title: 'AT HEART.'
+title: 'AT HEART'
 cover: 'https://openmoji.org/data/color/svg/1FAC0.svg'
 weight: 1
 params:
