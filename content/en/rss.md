@@ -9,7 +9,7 @@ params:
 
 This is the Dayton shout-out board.
 
-We would not be doing anything in this space without [Knavery] (https://www.facebook.com/KnaveryOfficial) and the wonderful members. Thanks for making music. 
+We would not be doing anything in this space without Knavery (https://www.facebook.com/KnaveryOfficial) and the wonderful members. Thanks for making music. 
 
 Some heavy bands locally you should check out: 
 

@@ -1,6 +1,6 @@
 ---
 type: 'slide'
-title: 'AT HEART STORE'
+title: 'STORE'
 coffee: 1
 weight: 3
 params:
